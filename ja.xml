@@ -5,5 +5,8 @@
 		<Translation ID="A_TD_NOW_STOPPING_AT" String="ただいま" />
 		<Translation ID="A_TD_FOR" String="ゆき" />
 		<Translation ID="A_TD_FOR_CIRCULAR" String="方面" />
+    <Translation ID="A_TD_SETTINGS_DISPLAY_WIDTH" String="画面横幅" />
+    <Translation ID="A_TD_SETTINGS_DISPLAY_LANGUAGE" String="ディスプレイの言語" />
+    <Translation ID="A_TD_SETTINGS_SYSTEM_LANGUAGE" String="システムと同じ" />
 	</Translations>
 </Language>
