@@ -1,6 +1,5 @@
-  
 <?xml version="1.0" encoding="utf-8"?>
-<Language UniqueName="zh-cn" ReadableName="Simplified Chinese" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Language UniqueName="zh" ReadableName="Simplified Chinese" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<Translations> 														<!-- Example  --> 
 																		<!-- [Note] Chinese characters should be placed as Japanese kanji instead of English words. --> 
 		<Translation ID="A_TD_NEXT" String="下一站" />     				<!--下一站 OO.  OO is the station name.-->
