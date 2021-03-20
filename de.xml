@@ -5,5 +5,8 @@
 		<Translation ID="A_TD_NOW_STOPPING_AT" String="Aktueller Halt" />
 		<Translation ID="A_TD_FOR" String="Richtung" />
 		<Translation ID="A_TD_FOR_CIRCULAR" String="Richtung" />
+		<Translation ID="A_TD_SETTINGS_DISPLAY_WIDTH" String="Display-Breite" />
+		<Translation ID="A_TD_SETTINGS_DISPLAY_LANGUAGE" String="Display-Sprache" />
+		<Translation ID="A_TD_SETTINGS_SYSTEM_LANGUAGE" String="Systemsprache" />
 	</Translations>
 </Language>
