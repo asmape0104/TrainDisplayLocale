@@ -8,5 +8,6 @@
     <Translation ID="A_TD_SETTINGS_DISPLAY_WIDTH" String="Display Width" />
     <Translation ID="A_TD_SETTINGS_DISPLAY_LANGUAGE" String="Display Language" />
     <Translation ID="A_TD_SETTINGS_SYSTEM_LANGUAGE" String="System Language" />
+    <Translation ID="A_TD_SETTINGS_TEXT_SHRINKED" String="Shrink next station text when it is long (beta)" />
 	</Translations>
 </Language>
