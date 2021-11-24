@@ -8,6 +8,6 @@
     <Translation ID="A_TD_SETTINGS_DISPLAY_WIDTH" String="화면 크기" />
     <Translation ID="A_TD_SETTINGS_DISPLAY_LANGUAGE" String="표시 언어" />
     <Translation ID="A_TD_SETTINGS_SYSTEM_LANGUAGE" String="시스템 언어" />
-    <Translation ID="A_TD_SETTINGS_TEXT_SHRINKED" String="역명이 길 경우 다음 역을 줄이기 (베타)" />
+    <Translation ID="A_TD_SETTINGS_TEXT_SHRINKED" String="다음역 역명이 길 경우 줄여서 표시하기 (베타)" />
 	</Translations>
 </Language>
